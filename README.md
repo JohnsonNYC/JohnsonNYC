@@ -17,7 +17,7 @@ Travel Rails [Demo](https://www.youtube.com/watch?v=AUwPwo0MrgE) | [Frontend](ht
 
 ✈️ Rental online marketplace that mimics the functionality of airbnb. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JohnsonNYC&show_icons=true&theme=vision-friendly-dark&hide=stars,issues](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JohnsonNYC&show_icons=true&theme=vision-friendly-dark&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <svg viewBox="0 0 128 128">
