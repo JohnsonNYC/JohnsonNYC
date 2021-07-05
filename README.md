@@ -5,7 +5,7 @@ I'm a Software Engineer based out of New York City. Back in 2018, I graduated fr
 Recently, I've obtained my AWS Cloud Practioner Ceritificate as I'm interested in eventually getting a specialized certificate in Machine Learning. Currently, I'm learning NodeJS and MongoDB to build out a task-manager application with full authentications using JWT. 
 
 ### Projects ⚙️
-Study Beans [Demo](https://www.youtube.com/watch?v=UjEURK5LSIo&t=1s) | [Frontend](https://github.com/JohnsonNYC/StudyBeans-backend) | [Backend](https://github.com/JohnsonNYC/StudyBeans-frontend)
+Study Beans [Demo](https://www.youtube.com/watch?v=UjEURK5LSIo&t=1s) | [Frontend](https://github.com/JohnsonNYC/StudyBeans-frontend) | [Backend](https://github.com/JohnsonNYC/StudyBeans-backend)
 
 ☕️ An online reservation service for laptop users to look for workspace availability in various NYC cafes. 
 
