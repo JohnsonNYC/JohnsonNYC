@@ -9,7 +9,7 @@ Study Beans [Demo](https://www.youtube.com/watch?v=UjEURK5LSIo&t=1s) | [Frontend
 
 ☕️ An online reservation service for laptop users to look for workspace availability in various NYC cafes. 
 
-Picologoy [Demo](https://www.youtube.com/watch?v=Bow4BPYAJlg&t=1s) | [Frontend](https://github.com/JohnsonNYC/Ecomm-frontend) | [Backend](https://github.com/JohnsonNYC/Ecomm-backend)
+Picology [Demo](https://www.youtube.com/watch?v=Bow4BPYAJlg&t=1s) | [Frontend](https://github.com/JohnsonNYC/Ecomm-frontend) | [Backend](https://github.com/JohnsonNYC/Ecomm-backend)
 
 📸 An online ecommerce website for users to buy picture from their favorite artists. The photos are heavily based on aerial, nature, and cityscape photography.
 
