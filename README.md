@@ -2,7 +2,9 @@
 
 I'm a Software Engineer based out of New York City. Back in 2018, I graduated from Sryacuse University with my Bachelor of Science in Mechanical Engineering. My curiosities in programming led me to attend a coding bootcamp where I learned fullstack development. My stack includes Javascript, ReactJS, and Ruby on Rails. 
 
-Recently, I've obtained my AWS Cloud Practioner Ceritificate as I'm interested in eventually getting a specialized certificate in Machine Learning. Currently, I'm learning NodeJS and MongoDB to build out a task-manager application with full authentications using JWT. 
+At the start of 2021 I joined an amazing startup called Somble where I was a frontend engineer. We migrated the codebase to Next.js to take advantage of SSR. Another notable accomplishment is displaying data from health and fitness wearables on the users dashboard to correspond with their workouts. Eventually we created an app using capacitor to maintain one codebase and for coaches to manage their business while on the go! 
+
+I'm currently looking for my next role as a frontend engineer!
 
 ### Projects ⚙️
 Study Beans [Demo](https://www.youtube.com/watch?v=UjEURK5LSIo&t=1s) | [Frontend](https://github.com/JohnsonNYC/StudyBeans-frontend) | [Backend](https://github.com/JohnsonNYC/StudyBeans-backend)
